@@ -1,1 +1,1 @@
-Data Challenge for an internship to create a predictive model for the Wayfair challenge using decision trees which predicts a set of conversion factor and revenue for the next 30 days. Trained the model using the provided scholarjet dataset.
+Data Challenge for an internship to create a predictive model for the Wayfair challenge using decision trees/ NN which predicts a set of conversion factor and revenue for the next 30 days. Trained the model using the provided scholarjet dataset.
